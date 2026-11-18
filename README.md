@@ -1,16 +1,17 @@
-## Hi there 👋
+# Sean Robinson
 
-<!--
-**seanmrobinson/seanmrobinson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Systems and Network Engineer - St. Louis, MO**
 
-Here are some ideas to get you started:
+Contact: sean@seanmrobinson.dev
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About
+Systems Engineer supporting real production networks: Active Directory, VLANs, firewalls, DHCP/DNS, Microsoft 365.
+
+## Certs
+- CompTIA Network+
+- CompTIA Security+
+- CCNA - in progress, exam target Dec 18, 2026
+
+## What I am building
+- ccna-labs - Jeremy's IT Lab Packet Tracer labs, documented as Problem / Steps Taken / Resolution
+- home-lab - my home network lab build
